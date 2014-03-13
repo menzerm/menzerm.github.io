@@ -1,10 +1,14 @@
-# Sources
+#Sources
 
-Ben Schwartz Image Gallery <br>
-URL: http://benschwarz.github.io/gallery-css
+Background Pattern <br>
+URL: http://subtlepatterns.com/debut-light/
 
-Light Box
-URL: http://tympanus.net/codrops/2011/12/26/css3-lightbox
+CSS3 Light Box <br>
+URL: http://www.designcouch.com/home/why/2013/11/01/responsive-css3-lightbox-with-no-javascript/
 
-Nunito Google Font <br>
-URL: http://google.com/fonts
+Font: Nunito <br>
+URL: http://www.google.com/fonts
+
+RGBA Colors <br>
+URL: http://hex2rgba.devoth.com/
+
