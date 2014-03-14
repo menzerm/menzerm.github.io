@@ -28,6 +28,7 @@ hr {
 nav {
 	font-size: 1.05em;
 	text-transform: uppercase;
+	margin-top: 2em;
 }
 
 nav a:link,
@@ -49,4 +50,9 @@ nav li {
 
 ul {
 	list-style: none;
+}
+
+img {
+	height: 6em;
+	margin-top: -2em;
 }
