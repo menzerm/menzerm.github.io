@@ -11,6 +11,7 @@ body {
 }
 
 footer {
+  clear: both;
   color: #6abd45;
   font-size: .75em;
   text-align: center;
@@ -24,6 +25,10 @@ hr {
   color: #b2b2b2;
 }
 
+.mini {
+  display: none;
+}
+
 nav {
 	font-size: 1.05em;
 	margin-top: 2em;
@@ -33,7 +38,7 @@ nav {
 nav a:link,
 nav a:visited {
 	color: #b2b2b2;
-	padding: 10px 10px 10px 25px;
+	padding: 10px 10px 10px 10px;
 	text-decoration: none;
 }
 
@@ -44,7 +49,7 @@ nav a:hover {
 nav li {
 	float: right;
 	list-style: none;
-	margin: 2px -13px 0 33px
+	margin: 0 2.5% 0 0;
 }
 
 ul {
