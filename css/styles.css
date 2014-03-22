@@ -25,6 +25,25 @@ hr {
   color: #b2b2b2;
 }
 
+.me {
+  text-align: center;
+  position: relative;
+}
+
+.me img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 64%;
+}
+
+.me p {
+  color: #23f7f7;
+  font-size: 10vw;
+  top: 10%;
+  right: 25%;
+  position: absolute;
+}
+
 .mini {
   display: none;
 }
