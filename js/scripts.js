@@ -1,0 +1,15 @@
+ $(document).ready(function(){
+
+        $.ionSound({
+            sounds: [
+                "metal_plate_2",
+            ],
+            path: "sounds/",
+            volume: "1.0"
+        });
+
+        $("h1").on("click",function(){
+            $.ionSound.play("metal_plate_2");
+        });
+
+    });
