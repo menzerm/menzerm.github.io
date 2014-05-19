@@ -8,8 +8,6 @@
             volume: "1.0"
         });
 
-        $("h1").on("click",function(){
-            $.ionSound.play("metal_plate_2");
-        });
+        $.ionSound.play("metal_plate_2");
 
     });
